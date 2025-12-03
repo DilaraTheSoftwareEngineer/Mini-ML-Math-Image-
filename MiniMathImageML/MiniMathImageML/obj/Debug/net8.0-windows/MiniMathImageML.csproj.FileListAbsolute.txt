@@ -1,0 +1,14 @@
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\bin\Debug\net8.0-windows\MiniMathImageML.exe
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\bin\Debug\net8.0-windows\MiniMathImageML.deps.json
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\bin\Debug\net8.0-windows\MiniMathImageML.runtimeconfig.json
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\bin\Debug\net8.0-windows\MiniMathImageML.dll
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\bin\Debug\net8.0-windows\MiniMathImageML.pdb
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\MiniMathImageML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\MiniMathImageML.AssemblyInfoInputs.cache
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\MiniMathImageML.AssemblyInfo.cs
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\MiniMathImageML.csproj.CoreCompileInputs.cache
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\MiniMathImageML.dll
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\refint\MiniMathImageML.dll
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\MiniMathImageML.pdb
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\MiniMathImageML.genruntimeconfig.cache
+C:\Users\vtef\source\repos\MiniMathImageML\MiniMathImageML\obj\Debug\net8.0-windows\ref\MiniMathImageML.dll
